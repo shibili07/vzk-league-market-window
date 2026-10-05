@@ -1,0 +1,14 @@
+:root {
+  --paper: #ffffff;
+  --mist: #f5f6fb;
+  --ink: #0f1130;
+  --muted: #6b6f8a;
+  --line: #e4e6f0;
+  --violet: #5a00d6;
+  --violet-deep: #1d0a6b;
+  --violet-night: #120a3d;
+  --violet-tint: #efe6ff;
+  --gold: #f2b632;
+  --font: 'Archivo', 'Segoe UI', system-ui, sans-serif;
+  --page-max: 1200px;
+}
